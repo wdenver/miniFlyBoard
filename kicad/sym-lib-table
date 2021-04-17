@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name carrinhoLib)(type Legacy)(uri ${KIPRJMOD}/carrinhoLib.lib)(options "")(descr ""))
+)
