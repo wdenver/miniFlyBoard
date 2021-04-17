@@ -3,5 +3,5 @@
 Esta placa deve ser compatível com o naze32
 
 
-![miniflyBoard+ Front](https://raw.githubusercontent.com/simonantonio/flip32plus/mpu9250/Renders/twist-32-f.png)
-![miniflyBoard+ Back](https://raw.githubusercontent.com/simonantonio/flip32plus/mpu9250/Renders/twist-32-b.png)
+![miniflyBoard+ Front](https://github.com/wdenver/miniFlyBoard/blob/main/renders/front.png)
+![miniflyBoard+ Back](https://github.com/wdenver/miniFlyBoard/blob/main/renders/back.png)
